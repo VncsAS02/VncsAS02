@@ -10,6 +10,6 @@
 - 📫 Como entrar em contato comigo: viniciusdealmeida200213@gmail.com. Sinta-se à vontade para entrar em contato para conversar sobre tecnologia ou para possíveis colaborações. / How to contact me: viniciusdealmeida200213@gmail.com. Feel free to get in touch to talk technology or for potential collaborations.
 
 # Estou aprendendo: 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
