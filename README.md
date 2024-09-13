@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=140&size=40&duration=800&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+there,+I'm+Vinicius👋;+Oi,+eu+sou+o+Vinicius👋)](https://git.io/typing-svg)
 
 <div align="center">
   <a>
@@ -18,7 +17,7 @@
 - 👯 Estou procurando colaborar em projetos relacionados a tecnologia da informação.
   
 - 💬 Me pergunte sobre o meu último projeto de desenvolvimento. Adoro compartilhar conhecimentos e aprender sobre novos tópicos em Ciência da Computação!
-- 
+  
 - 📫 Como entrar em contato comigo: viniciusdealmeida200213@gmail.com. Sinta-se à vontade para entrar em contato para conversar sobre tecnologia ou para possíveis colaborações.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
