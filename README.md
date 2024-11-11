@@ -1,9 +1,5 @@
 
-<div align="center">
-  <a>
-    <img height="200" width="300" src="https://github.com/Schneiderss/Schneiderss/blob/main/output-onlinegiftools%20(1)%20(1).gif">
-  </a>
-</div>
+<div class="tenor-gif-embed" data-postid="27699527" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dont-use-gif-27699527">Dont Use GIF</a>from <a href="https://tenor.com/search/dont+use-gifs">Dont Use GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Olá, me chamo Vinicius ! 
 
