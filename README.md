@@ -1,6 +1,3 @@
-
-<div class="tenor-gif-embed" data-postid="27699527" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dont-use-gif-27699527">Dont Use GIF</a>from <a href="https://tenor.com/search/dont+use-gifs">Dont Use GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 # Olá, me chamo Vinicius ! 
 
 # Bem vindo ao meu perfil GitHub 👋 
