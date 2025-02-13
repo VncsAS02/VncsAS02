@@ -5,7 +5,7 @@
 **VncsAS02/VncsAS02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Estou atualmente no 6° período do curso de Ciencia da Computação da faculdade UDF. Estou explorando novas ferramentas e frameworks para aprimorar minhas habilidades em programação!
+- 🌱 Estou atualmente no 7° período do curso de Ciencia da Computação da faculdade UDF. Estou explorando novas ferramentas e frameworks para aprimorar minhas habilidades em programação!
    
 - 👯 Estou procurando colaborar em projetos relacionados a tecnologia da informação.
   
